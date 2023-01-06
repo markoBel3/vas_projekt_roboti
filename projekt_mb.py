@@ -23,7 +23,7 @@ class Lokacija(Enum):
     HODNIK = 4
 
 
-api_key = "a6be40e03ef88fa5bdd300b00ba97e9f"
+api_key = ""
 udaljenosti = [
     # kuhinja, kupaona, spavaca_soba, dnevni_boravak, hodnik
     [0, 2, 2, 1, 1],  # kuhinja
